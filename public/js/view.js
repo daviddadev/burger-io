@@ -104,8 +104,8 @@ $(document).ready(function() {
         burger.text,
         "</span>",
         "<input type='text' class='edit' style='display: none;'>",
-        "<button class='delete btn btn-default'>Devour</button>",
-        "<button class='complete btn btn-default'>✓</button>",
+        "<button class='delete btn btn-warning'>Devour</button>",
+        // "<button class='complete btn btn-default'>✓</button>",
         "</li>"
       ].join("")
     );
