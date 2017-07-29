@@ -1,7 +1,5 @@
 # Week of 14 Homework Node Express Handlebars
 
-# burger-io
-
 ![ScreenShot](https://github.com/sotoxp/burger-io/blob/master/image/burger.jpg?raw=true)
 
 
